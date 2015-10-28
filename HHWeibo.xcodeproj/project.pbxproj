@@ -17,6 +17,7 @@
 		901E672E1BDE4C5A0026E970 /* HHProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901E672D1BDE4C5A0026E970 /* HHProfileViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		901E67301BDE4CDA0026E970 /* HHMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901E672F1BDE4CDA0026E970 /* HHMainViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		901E67341BDE59FA0026E970 /* HHVistorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901E67331BDE59FA0026E970 /* HHVistorView.swift */; settings = {ASSET_TAGS = (); }; };
+		907455E11BE12C7100C184DC /* HHNetworkTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907455E01BE12C7100C184DC /* HHNetworkTools.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		901E672D1BDE4C5A0026E970 /* HHProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHProfileViewController.swift; sourceTree = "<group>"; };
 		901E672F1BDE4CDA0026E970 /* HHMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHMainViewController.swift; sourceTree = "<group>"; };
 		901E67331BDE59FA0026E970 /* HHVistorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHVistorView.swift; sourceTree = "<group>"; };
+		907455E01BE12C7100C184DC /* HHNetworkTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHNetworkTools.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -304,6 +306,7 @@
 		901E67241BDE4B1E0026E970 /* Tool(工具类) */ = {
 			isa = PBXGroup;
 			children = (
+				907455E01BE12C7100C184DC /* HHNetworkTools.swift */,
 			);
 			path = "Tool(工具类)";
 			sourceTree = "<group>";
@@ -431,6 +434,7 @@
 				901E672A1BDE4C3C0026E970 /* HHMessageViewController.swift in Sources */,
 				901E67301BDE4CDA0026E970 /* HHMainViewController.swift in Sources */,
 				901E672C1BDE4C4A0026E970 /* HHDiscoverViewController.swift in Sources */,
+				907455E11BE12C7100C184DC /* HHNetworkTools.swift in Sources */,
 				901E67261BDE4BA90026E970 /* HHBaseTableViewController.swift in Sources */,
 				901E66D71BDE48D60026E970 /* AppDelegate.swift in Sources */,
 				901E672E1BDE4C5A0026E970 /* HHProfileViewController.swift in Sources */,
